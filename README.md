@@ -1,9 +1,9 @@
 # camilly1lima
-👋 Oi, eu sou a Camilly! Focada em dados, BI e construção de dashboards que realmente ajudam na tomada de decisão.
+
 ````md
 
 ```python
-class CamillyVictoria:
+class CamillyLima:
     focus = ["Data", "BI", "Dashboards"]
     tools = ["Python", "SQL", "Power BI", "Excel"]
 
@@ -24,7 +24,7 @@ class CamillyVictoria:
 
 ## 📊 Projetos em Destaque
 
-### 🎓 Dashboard de Matrículas
+### 🎓 Performance de matrículas
 
 📌 Análise de alunos, evasão e cursos
 📊 Construído no Power BI
